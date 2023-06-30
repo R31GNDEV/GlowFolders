@@ -1,0 +1,9 @@
+Package: gay.kota.glowfolders
+Name: GlowFolders
+Version: 0.8.7
+Architecture: iphoneos-arm
+Description: Add glow to your Folders!
+Maintainer: Kota
+Author: Kota
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.1)
